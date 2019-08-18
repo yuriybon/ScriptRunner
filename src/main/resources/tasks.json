@@ -1,0 +1,9 @@
+{ "tasks":[ 
+			[	     {"scriptName": "dir C:\\Users", "userName": "lem_mdm"}
+  					,{"scriptName": "dir C:\\work", "userName": "lem_dbo"}
+  	  		] 
+  		,	[	     {"scriptName": "ping -n 3 google.com", "userName": "lem_mdm"}
+  					,{"scriptName": "dir C:\\work\\Java\\Code\\", "userName": "lem_dbo"}
+  			]
+  ]			
+}
